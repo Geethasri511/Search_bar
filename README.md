@@ -1,2 +1,5 @@
 # Search_bar
-Create a searchbar 
+
+My first public reporsitory
+
+Geetha's world
